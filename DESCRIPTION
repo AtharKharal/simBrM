@@ -8,10 +8,10 @@ Authors@R:
            email = "atharkharal@gmail.com",
            comment = c(ORCID = "Athar-ORCID Here"))
 Description: This is just a practice for learning how to write a package as a bye-product of some research paper.
-License: `use_mit_license()`
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.0.0
+RoxygenNote: 7.1.1
 URL: https://github.com/AtharKharal/simBrM
 BugReports: https://github.com/AtharKharal/simBrM/issues
