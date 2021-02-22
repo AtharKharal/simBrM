@@ -13,3 +13,5 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.0.0
+URL: https://github.com/AtharKharal/simBrM
+BugReports: https://github.com/AtharKharal/simBrM/issues
